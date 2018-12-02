@@ -9,7 +9,7 @@
 				"abbreviation" : "ALA",
 				"prestige" : "60",
 				"state" : "Alabama",
-				"rival" : "AUB"
+				"rival" : "AUB, TEN"
 			},{
 				"name" : "Georgia",
 				"abbreviation" : "GEO",
@@ -70,7 +70,7 @@
 			"confFullName" : "Atlantic Coast",
 				"confTeams" : [{
 				"name" : "Duke",
-				"abbreviation" : "DUK",
+				"abbreviation" : "DUKE",
 				"prestige" : "60",
 				"state" : "North Carolina",
 				"rival" : "UNC"
