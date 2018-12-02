@@ -133,257 +133,257 @@
 			"confName" : "B10",
 			"confFullName" : "Big Ten",
 			"confTeams" : [{
-				"name" : "New York St",
-				"abbreviation" : "NYS",
-				"prestige" : "90",
-				"state" : "New York",
-				"rival" : "NYC"
-			},{
-				"name" : "New Jersey",
-				"abbreviation" : "NWJ",
-				"prestige" : "85",
-				"state" : "New Jersey",
-				"rival" : "PEN"
-			},{
-				"name" : "New York City",
-				"abbreviation" : "NYC",
-				"prestige" : "75",
-				"state" : "New York",
-				"rival" : "NYS"
-			},{
-				"name" : "Pennsylvania",
-				"abbreviation" : "PEN",
-				"prestige" : "75",
-				"state" : "Pennsylvania",
-				"rival" : "NWJ"
-			},{
-				"name" : "Maryland",
-				"abbreviation" : "MAR",
-				"prestige" : "70",
-				"state" : "Maryland",
-				"rival" : "WDC"
-			},{
-				"name" : "Washington DC",
-				"abbreviation" : "WDC",
-				"prestige" : "70",
-				"state" : "District of Columbia",
-				"rival" : "MAR"
-			},{
-				"name" : "Boston St",
-				"abbreviation" : "BOS",
-				"prestige" : "65",
-				"state" : "Massachusetts",
-				"rival" : "VER"
-			},{
-				"name" : "Pittsburgh",
-				"abbreviation" : "PIT",
+				"name" : "Ohio State",
+				"abbreviation" : "OSU",
 				"prestige" : "60",
-				"state" : "Pennsylvania",
-				"rival" : "MAI"
+				"state" : "Ohio",
+				"rival" : ""
 			},{
-				"name" : "Maine",
-				"abbreviation" : "MAI",
-				"prestige" : "50",
-				"state" : "Maine",
-				"rival" : "PIT"
+				"name" : "Michigan",
+				"abbreviation" : "MIC",
+				"prestige" : "60",
+				"state" : "Michigan",
+				"rival" : ""
 			},{
-				"name" : "Vermont",
-				"abbreviation" : "VER",
-				"prestige" : "45",
-				"state" : "Vermont",
-				"rival" : "BOS"
+				"name" : "Michigan State",
+				"abbreviation" : "MSU",
+				"prestige" : "60",
+				"state" : "Michigan",
+				"rival" : ""
+			},{
+				"name" : "Iowa",
+				"abbreviation" : "IOW",
+				"prestige" : "60",
+				"state" : "Iowa",
+				"rival" : ""
+			},{
+				"name" : "Nebraska",
+				"abbreviation" : "NEB",
+				"prestige" : "60",
+				"state" : "Nebraska",
+				"rival" : ""
+			},{
+				"name" : "Minnesota",
+				"abbreviation" : "MIN",
+				"prestige" : "60",
+				"state" : "Minnesota",
+				"rival" : ""
+			},{
+				"name" : "Wisconsin",
+				"abbreviation" : "WIS",
+				"prestige" : "60",
+				"state" : "Wisconsin",
+				"rival" : ""
+			},{
+				"name" : "Indiana",
+				"abbreviation" : "IND",
+				"prestige" : "60",
+				"state" : "Indiana",
+				"rival" : ""
+			},{
+				"name" : "Northwestern",
+				"abbreviation" : "NOR",
+				"prestige" : "60",
+				"state" : "Illinois",
+				"rival" : ""
+			},{
+				"name" : "Illinois",
+				"abbreviation" : "ILL",
+				"prestige" : "60",
+				"state" : "Illinois",
+				"rival" : ""
 			}]
 		},{
-			"confName" : "COWBY",
-			"confFullName" : "Cowboy",
+			"confName" : "B12",
+			"confFullName" : "Big 12",
 			"confTeams" : [{
 				"name" : "Oklahoma",
 				"abbreviation" : "OKL",
-				"prestige" : "90",
+				"prestige" : "60",
 				"state" : "Oklahoma",
 				"rival" : "TEX"
 			},{
 				"name" : "Texas",
 				"abbreviation" : "TEX",
-				"prestige" : "90",
+				"prestige" : "60",
 				"state" : "Texas",
 				"rival" : "OKL"
 			},{
-				"name" : "Houston",
-				"abbreviation" : "HOU",
-				"prestige" : "80",
-				"state" : "Texas",
-				"rival" : "DAL"
-			},{
-				"name" : "Dallas",
-				"abbreviation" : "DAL",
-				"prestige" : "80",
-				"state" : "Texas",
-				"rival" : "HOU"
-			},{
-				"name" : "Alamo St",
-				"abbreviation" : "AMO",
-				"prestige" : "70",
-				"state" : "Texas",
-				"rival" : "PAS"
-			},{
-				"name" : "Oklahoma St",
+				"name" : "Oklahoma State",
 				"abbreviation" : "OKS",
-				"prestige" : "70",
+				"prestige" : "60",
 				"state" : "Oklahoma",
-				"rival" : "TUL"
+				"rival" : ""
 			},{
-				"name" : "El Paso St",
-				"abbreviation" : "PAS",
+				"name" : "Texas Christian",
+				"abbreviation" : "TCU",
 				"prestige" : "60",
 				"state" : "Texas",
-				"rival" : "AMO"
+				"rival" : ""
 			},{
-				"name" : "Texas St",
-				"abbreviation" : "TXS",
+				"name" : "Texas Tech",
+				"abbreviation" : "TTU",
 				"prestige" : "60",
 				"state" : "Texas",
-				"rival" : "AUS"
+				"rival" : ""
 			},{
-				"name" : "Tulsa",
-				"abbreviation" : "TUL",
-				"prestige" : "55",
-				"state" : "Oklahoma",
-				"rival" : "OKS"
-			},{
-				"name" : "Univ of Austin",
-				"abbreviation" : "AUS",
-				"prestige" : "50",
+				"name" : "Baylor",
+				"abbreviation" : "BAY",
+				"prestige" : "60",
 				"state" : "Texas",
-				"rival" : "TXS"
+				"rival" : ""
+			},{
+				"name" : "West Virginia",
+				"abbreviation" : "WVU",
+				"prestige" : "60",
+				"state" : "West Virginia",
+				"rival" : ""
+			},{
+				"name" : "Kansas",
+				"abbreviation" : "KU",
+				"prestige" : "60",
+				"state" : "Kansas",
+				"rival" : ""
+			},{
+				"name" : "Kansas State",
+				"abbreviation" : "KSU",
+				"prestige" : "60",
+				"state" : "Kansas",
+				"rival" : ""
+			},{
+				"name" : "Iowa State",
+				"abbreviation" : "ISU",
+				"prestige" : "60",
+				"state" : "Iowa",
+				"rival" : ""
 			}]
 		},{
-			"confName" : "PACIF",
-			"confFullName" : "Pacific",
+			"confName" : "PAC12",
+			"confFullName" : "PAC 12",
 			"confTeams" : [{
 				"name" : "California",
 				"abbreviation" : "CAL",
-				"prestige" : "90",
+				"prestige" : "60",
 				"state" : "California",
-				"rival" : "ULA"
+				"rival" : ""
 			},{
 				"name" : "Oregon",
 				"abbreviation" : "ORE",
-				"prestige" : "85",
+				"prestige" : "60",
 				"state" : "Oregon",
-				"rival" : "WAS"
+				"rival" : ""
 			},{
 				"name" : "Los Angeles",
-				"abbreviation" : "ULA",
-				"prestige" : "80",
+				"abbreviation" : "UCLA",
+				"prestige" : "60",
 				"state" : "California",
-				"rival" : "CAL"
+				"rival" : ""
 			},{
-				"name" : "Oakland St",
-				"abbreviation" : "OAK",
-				"prestige" : "75",
+				"name" : "Southern California",
+				"abbreviation" : "USC",
+				"prestige" : "60",
 				"state" : "California",
-				"rival" : "HOL"
+				"rival" : ""
 			},{
 				"name" : "Washington",
 				"abbreviation" : "WAS",
-				"prestige" : "75",
+				"prestige" : "60",
 				"state" : "Washington",
-				"rival" : "ORE"
+				"rival" : ""
 			},{
-				"name" : "Hawaii",
-				"abbreviation" : "HAW",
-				"prestige" : "70",
-				"state" : "Hawaii",
-				"rival" : "SAM"
+				"name" : "Oregon State",
+				"abbreviation" : "ORS",
+				"prestige" : "60",
+				"state" : "Oregon",
+				"rival" : ""
 			},{
-				"name" : "Seattle",
-				"abbreviation" : "SEA",
-				"prestige" : "70",
+				"name" : "Washington State",
+				"abbreviation" : "WSU",
+				"prestige" : "60",
 				"state" : "Washington",
-				"rival" : "SAN"
+				"rival" : ""
 			},{
-				"name" : "Hollywood St",
-				"abbreviation" : "HOL",
-				"prestige" : "70",
-				"state" : "California",
-				"rival" : "OAK"
-			},{
-				"name" : "San Diego St",
-				"abbreviation" : "SAN",
+				"name" : "Stanford",
+				"abbreviation" : "STA",
 				"prestige" : "60",
 				"state" : "California",
-				"rival" : "SEA"
+				"rival" : ""
 			},{
-				"name" : "American Samoa",
-				"abbreviation" : "SAM",
-				"prestige" : "65",
-				"state" : "American Samoa",
-				"rival" : "HAW"
+				"name" : "Arizona",
+				"abbreviation" : "ARI",
+				"prestige" : "60",
+				"state" : "Arizona",
+				"rival" : ""
+			},{
+				"name" : "Arizona State",
+				"abbreviation" : "ASU",
+				"prestige" : "60",
+				"state" : "Arizona",
+				"rival" : ""
 			}]
 		},{
 			"confName" : "MOUNT",
-			"confFullName" : "Mountain",
+			"confFullName" : "Mountain West",
 			"confTeams" : [{
-				"name" : "Colorado",
-				"abbreviation" : "COL",
-				"prestige" : "80",
-				"state" : "Colorado",
-				"rival" : "DEN"
+				"name" : "BYU",
+				"abbreviation" : "BYU",
+				"prestige" : "60",
+				"state" : "Utah",
+				"rival" : ""
 			},{
-				"name" : "Yellowstone St",
-				"abbreviation" : "YEL",
-				"prestige" : "75",
-				"state" : "Wyoming",
-				"rival" : "ALB"
+				"name" : "Boise State",
+				"abbreviation" : "BSU",
+				"prestige" : "60",
+				"state" : "Idaho",
+				"rival" : ""
 			},{
 				"name" : "Utah",
 				"abbreviation" : "UTA",
-				"prestige" : "75",
-				"state" : "Utah",
-				"rival" : "SAL"
-			},{
-				"name" : "Univ of Denver",
-				"abbreviation" : "DEN",
-				"prestige" : "75",
-				"state" : "Colorado",
-				"rival" : "COL"
-			},{
-				"name" : "Albuquerque",
-				"abbreviation" : "ALB",
-				"prestige" : "70",
-				"state" : "New Mexico",
-				"rival" : "YEL"
-			},{
-				"name" : "Salt Lake St",
-				"abbreviation" : "SAL",
-				"prestige" : "65",
-				"state" : "Utah",
-				"rival" : "UTA"
-			},{
-				"name" : "Wyoming",
-				"abbreviation" : "WYO",
 				"prestige" : "60",
-				"state" : "Wyoming",
-				"rival" : "MON"
+				"state" : "Utah",
+				"rival" : ""
 			},{
-				"name" : "Montana",
-				"abbreviation" : "MON",
-				"prestige" : "55",
-				"state" : "Montana",
-				"rival" : "WYO"
+				"name" : "New Mexico",
+				"abbreviation" : "NM",
+				"prestige" : "60",
+				"state" : "New Mexico",
+				"rival" : ""
+			},{
+				"name" : "New Mexico State",
+				"abbreviation" : "NMS",
+				"prestige" : "60",
+				"state" : "New Mexico",
+				"rival" : ""
+			},{
+				"name" : "San Diego State",
+				"abbreviation" : "SDS",
+				"prestige" : "60",
+				"state" : "California",
+				"rival" : ""
+			},{
+				"name" : "Fresno State",
+				"abbreviation" : "FRE",
+				"prestige" : "60",
+				"state" : "California",
+				"rival" : ""
+			},{
+				"name" : "San Jose State",
+				"abbreviation" : "SJS",
+				"prestige" : "60",
+				"state" : "California",
+				"rival" : ""
 			},{
 				"name" : "Las Vegas",
-				"abbreviation" : "LSV",
-				"prestige" : "50",
+				"abbreviation" : "UNLV",
+				"prestige" : "60",
 				"state" : "Nevada",
-				"rival" : "PHO"
+				"rival" : ""
 			},{
-				"name" : "Phoenix",
-				"abbreviation" : "PHO",
-				"prestige" : "45",
-				"state" : "Arizona",
-				"rival" : "LSV"
+				"name" : "Reno",
+				"abbreviation" : "UNR",
+				"prestige" : "60",
+				"state" : "",
+				"rival" : ""
 		}]
 	}]
 }
