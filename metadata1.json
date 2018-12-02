@@ -2,102 +2,102 @@
 
 	"bowlGames" : ["Rose Bowl", "Sugar Bowl", "Peach Bowl", "Cotton Bowl Classic", "Music City Bowl", "Fiesta Bowl", "Pinstripe Bowl", "Citrus Bowl", "Belk Bowl", "Outback Bowl"],
 		"conferences" : [{
-			"confName" : "SOUTH",
-			"confFullName" : "Southern",
+			"confName" : "SEC",
+			"confFullName" : "Southeastern",
 			"confTeams" : [{
 				"name" : "Alabama",
 				"abbreviation" : "ALA",
-				"prestige" : "95",
+				"prestige" : "60",
 				"state" : "Alabama",
-				"rival" : "GEO"
+				"rival" : "AUB"
 			},{
 				"name" : "Georgia",
 				"abbreviation" : "GEO",
-				"prestige" : "90",
+				"prestige" : "60",
 				"state" : "Georgia",
-				"rival" : "ALA"
-			},{
-				"name" : "Florida",
-				"abbreviation" : "FLA",
-				"prestige" : "85",
-				"state" : "Florida",
-				"rival" : "TEN"
-			},{
-				"name" : "Tennessee",
-				"abbreviation" : "TEN",
-				"prestige" : "80",
-				"state" : "Tennessee",
-				"rival" : "FLA"
-			},{
-				"name" : "Atlanta",
-				"abbreviation" : "ATL",
-				"prestige" : "75",
-				"state" : "Georgia",
-				"rival" : "KYW"
-			},{
-				"name" : "New Orleans",
-				"abbreviation" : "NOR",
-				"prestige" : "75",
-				"state" : "Louisiana",
-				"rival" : "LOU"
-			},{
-				"name" : "Arkansas",
-				"abbreviation" : "ARK",
-				"prestige" : "70",
-				"state" : "Arkansas",
-				"rival" : "KTY"
-			},{
-				"name" : "Louisiana",
-				"abbreviation" : "LOU",
-				"prestige" : "65",
-				"state" : "Louisiana",
-				"rival" : "NOR"
-			},{
-				"name" : "Key West",
-				"abbreviation" : "KYW",
-				"prestige" : "65",
-				"state" : "Florida",
-				"rival" : "ATL"
+				"rival" : ""
 			},{
 				"name" : "Kentucky",
 				"abbreviation" : "KTY",
-				"prestige" : "50",
+				"prestige" : "60",
 				"state" : "Kentucky",
-				"rival" : "ARK"
+				"rival" : ""
+			},{
+				"name" : "Tennessee",
+				"abbreviation" : "TEN",
+				"prestige" : "60",
+				"state" : "Tennessee",
+				"rival" : ""
+			},{
+				"name" : "Missouri",
+				"abbreviation" : "MU",
+				"prestige" : "60",
+				"state" : "Missouri",
+				"rival" : ""
+			},{
+				"name" : "Louisana State",
+				"abbreviation" : "LSU",
+				"prestige" : "60",
+				"state" : "Louisiana",
+				"rival" : ""
+			},{
+				"name" : "Arkansas",
+				"abbreviation" : "ARK",
+				"prestige" : "60",
+				"state" : "Arkansas",
+				"rival" : ""
+			},{
+				"name" : "Auburn",
+				"abbreviation" : "AUB",
+				"prestige" : "60",
+				"state" : "Alabama",
+				"rival" : "ALA"
+			},{
+				"name" : "Mississippi",
+				"abbreviation" : "OLE",
+				"prestige" : "60",
+				"state" : "Mississippi",
+				"rival" : ""
+			},{
+				"name" : "Florida",
+				"abbreviation" : "FLO",
+				"prestige" : "60",
+				"state" : "Florida",
+				"rival" : ""
 			}]
 		},{
-			"confName" : "LAKES",
-			"confFullName" : "Lakes",
+			"confName" : "ACC",
+			"confFullName" : "Atlantic Coast",
 				"confTeams" : [{
-				"name" : "Ohio State",
-				"abbreviation" : "OHI",
-				"prestige" : "90",
-				"state" : "Ohio",
-				"rival" : "MIC"
+				"name" : "Duke",
+				"abbreviation" : "DUK",
+				"prestige" : "60",
+				"state" : "North Carolina",
+				"rival" : ""
 			},{
-				"name" : "Michigan",
-				"abbreviation" : "MIC",
-				"prestige" : "90",
-				"state" : "Michigan",
-				"rival" : "OHI"
+				"name" : "North Carolina",
+				"abbreviation" : "UNC",
+				"prestige" : "60",
+				"state" : "North Carolina",
+				"rival" : ""
 			},{
-				"name" : "Michigan St",
-				"abbreviation" : "MSU",
-				"prestige" : "80",
-				"state" : "Michigan",
-				"rival" : "MIN"
+				"name" : "Virginia",
+				"abbreviation" : "UVA",
+				"prestige" : "60",
+				"state" : "Virginia",
+				"rival" : ""
 			},{
-				"name" : "Wisconsin",
-				"abbreviation" : "WIS",
-				"prestige" : "70",
-				"state" : "Wisconsin",
-				"rival" : "IND"
+				"name" : "Virginia Tech",
+				"abbreviation" : "VAT",
+				"prestige" : "60",
+				"state" : "Virginia",
+				"rival" : ""
 			},{
-				"name" : "Minnesota",
-				"abbreviation" : "MIN",
-				"prestige" : "70",
-				"state" : "Minnesota",
-				"rival" : "MSU"
+				"name" : "Notre Dame",
+				"abbreviation" : "ND",
+				"prestige" : "60",
+				"state" : "Indiana",
+				"rival" : ""
 			},{
 				"name" : "Univ of Chicago",
 				"abbreviation" : "CHI",
