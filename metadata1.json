@@ -9,7 +9,8 @@
 				"abbreviation" : "ALA",
 				"prestige" : "60",
 				"state" : "Alabama",
-				"rival" : "AUB, TEN"
+				"rival" : "AUB",
+				"rival" : "TEN"
 			},{
 				"name" : "Georgia",
 				"abbreviation" : "GEO",
@@ -27,7 +28,8 @@
 				"abbreviation" : "TEN",
 				"prestige" : "60",
 				"state" : "Tennessee",
-				"rival" : "KTY, ALA"
+				"rival" : "KTY",
+				"rival" : "ALA",
 			},{
 				"name" : "Missouri",
 				"abbreviation" : "MU",
