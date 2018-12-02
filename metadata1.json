@@ -99,39 +99,39 @@
 				"state" : "Indiana",
 				"rival" : ""
 			},{
-				"name" : "Univ of Chicago",
-				"abbreviation" : "CHI",
-				"prestige" : "70",
-				"state" : "Illinois",
-				"rival" : "DET"
-			},{
-				"name" : "Detroit St",
-				"abbreviation" : "DET",
-				"prestige" : "65",
-				"state" : "Michigan",
-				"rival" : "CHI"
-			},{
-				"name" : "Indiana",
-				"abbreviation" : "IND",
-				"prestige" : "65",
-				"state" : "Indiana",
-				"rival" : "WIS"
-			},{
-				"name" : "Cleveland State",
+				"name" : "Clemson",
 				"abbreviation" : "CLE",
-				"prestige" : "55",
-				"state" : "Ohio",
-				"rival" : "MIL"
+				"prestige" : "60",
+				"state" : "South Carolina",
+				"rival" : ""
 			},{
-				"name" : "Milwaukee",
-				"abbreviation" : "MIL",
-				"prestige" : "45",
-				"state" : "Wisconsin",
-				"rival" : "CLE"
+				"name" : "Louisville",
+				"abbreviation" : "LOU",
+				"prestige" : "60",
+				"state" : "Kentucky",
+				"rival" : ""
+			},{
+				"name" : "Florida State",
+				"abbreviation" : "FSU",
+				"prestige" : "60",
+				"state" : "Florida",
+				"rival" : ""
+			},{
+				"name" : "Syracuse",
+				"abbreviation" : "SYR",
+				"prestige" : "60",
+				"state" : "New York",
+				"rival" : ""
+			},{
+				"name" : "Miami",
+				"abbreviation" : "MIA",
+				"prestige" : "60",
+				"state" : "Florida",
+				"rival" : ""
 			}]
 		},{
-			"confName" : "NORTH",
-			"confFullName" : "North",
+			"confName" : "B10",
+			"confFullName" : "Big Ten",
 			"confTeams" : [{
 				"name" : "New York St",
 				"abbreviation" : "NYS",
