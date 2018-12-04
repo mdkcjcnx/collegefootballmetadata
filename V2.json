@@ -13,67 +13,67 @@
 			},{
 				"name" : "Duke",
 				"abbreviation" : "DUKE",
-				"prestige" : "60",
+				"prestige" : "50",
 				"state" : "North Carolina",
 				"rival" : "UNC"
 			},{
 				"name" : "Clemson",
 				"abbreviation" : "CLEM",
-				"prestige" : "60",
+				"prestige" : "90",
 				"state" : "South Carolina",
 				"rival" : "GEO"
 			},{
 				"name" : "Georgia",
 				"abbreviation" : "GEO",
-				"prestige" : "60",
+				"prestige" : "75",
 				"state" : "Georgia",
 				"rival" : "CLEM"
 			},{
 				"name" : "Alabama",
 				"abbreviation" : "ALA",
-				"prestige" : "60",
+				"prestige" : "95",
 				"state" : "Alabama",
 				"rival" : "AUB"
 			},{
 				"name" : "Auburn",
 				"abbreviation" : "AUB",
-				"prestige" : "60",
+				"prestige" : "75",
 				"state" : "Alabama",
 				"rival" : "ALA"
 			},{
 				"name" : "Kentucky",
 				"abbreviation" : "KTY",
-				"prestige" : "60",
+				"prestige" : "55",
 				"state" : "Kentucky",
 				"rival" : "TENN"
 			},{
 				"name" : "Tennessee",
 				"abbreviation" : "TENN",
-				"prestige" : "60",
+				"prestige" : "70",
 				"state" : "Tennessee",
 				"rival" : "KTY"
 			},{
 				"name" : "Florida",
 				"abbreviation" : "FLA",
-				"prestige" : "60",
+				"prestige" : "80",
 				"state" : "Florida",
 				"rival" : "FSU"
 			},{
 				"name" : "Florida State",
 				"abbreviation" : "FSU",
-				"prestige" : "60",
+				"prestige" : "85",
 				"state" : "Florida",
 				"rival" : "FLA"
 			},{
 				"name" : "Virginia",
 				"abbreviation" : "UVA",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "Virginia",
 				"rival" : "VT"
 			},{
 				"name" : "Virginia Tech",
 				"abbreviation" : "VT",
-				"prestige" : "60",
+				"prestige" : "70",
 				"state" : "Virginia",
 				"rival" : "UVA"
 			}]
@@ -95,61 +95,61 @@
 			},{
 				"name" : "Indiana",
 				"abbreviation" : "IND",
-				"prestige" : "60",
+				"prestige" : "55",
 				"state" : "Indiana",
 				"rival" : "MSU"
 			},{
 				"name" : "Michigan State",
 				"abbreviation" : "MSU",
-				"prestige" : "60",
+				"prestige" : "75",
 				"state" : "Michigan",
 				"rival" : "IND"
 			},{
 				"name" : "Ohio State",
 				"abbreviation" : "OSU",
-				"prestige" : "60",
+				"prestige" : "90",
 				"state" : "Ohio",
 				"rival" : "MICH"
 			},{
 				"name" : "Michigan",
 				"abbreviation" : "MICH",
-				"prestige" : "60",
+				"prestige" : "90",
 				"state" : "Michigan",
 				"rival" : "OSU"
 			},{
 				"name" : "Illinois",
 				"abbreviation" : "ILL",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "Illinois",
 				"rival" : "NWN"
 			},{
 				"name" : "Northwestern",
 				"abbreviation" : "NWN",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "Illinois",
 				"rival" : "ILL"
 			},{
 				"name" : "Syracuse",
 				"abbreviation" : "SYR",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "New York",
 				"rival" : "BOS"
 			},{
 				"name" : "Boston College",
 				"abbreviation" : "BOS",
-				"prestige" : "60",
+				"prestige" : "45",
 				"state" : "Massachusetts",
 				"rival" : "SYR"
 			},{
 				"name" : "Penn State",
 				"abbreviation" : "PSU",
-				"prestige" : "60",
+				"prestige" : "85",
 				"state" : "Pennsylvania",
 				"rival" : "PITT"
 			},{
 				"name" : "Pittsburgh",
 				"abbreviation" : "PITT",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "Pennsylvania",
 				"rival" : "PSU"
 			}]
@@ -159,67 +159,67 @@
 				"confTeams" : [{
 				"name" : "Kansas",
 				"abbreviation" : "KU",
-				"prestige" : "60",
+				"prestige" : "50",
 				"state" : "Kansas",
 				"rival" : "MU"
 			},{
 				"name" : "Missouri",
 				"abbreviation" : "MU",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "Missouri",
 				"rival" : "KU"
 			},{
 				"name" : "Iowa",
 				"abbreviation" : "IOW",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "Iowa",
 				"rival" : "ISU"
 			},{
 				"name" : "Iowa State",
 				"abbreviation" : "ISU",
-				"prestige" : "60",
+				"prestige" : "50",
 				"state" : "Iowa",
 				"rival" : "IOW"
 			},{
 				"name" : "Kansas State",
 				"abbreviation" : "KSU",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "Kansas",
 				"rival" : "NEB"
 			},{
 				"name" : "Nebraska",
 				"abbreviation" : "NEB",
-				"prestige" : "60",
+				"prestige" : "70",
 				"state" : "Nebraska",
 				"rival" : "KSU"
 			},{
 				"name" : "Oklahoma",
 				"abbreviation" : "OU",
-				"prestige" : "60",
+				"prestige" : "90",
 				"state" : "Oklahoma",
 				"rival" : "OKS"
 			},{
 				"name" : "Oklahoma State",
 				"abbreviation" : "OKS",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "Oklahoma",
 				"rival" : "OU"
 			},{
 				"name" : "Texas",
 				"abbreviation" : "TEX",
-				"prestige" : "60",
+				"prestige" : "90",
 				"state" : "Texas",
 				"rival" : "TTU"
 			},{
 				"name" : "Texas Tech",
 				"abbreviation" : "TTU",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "Texas",
 				"rival" : "TEX"
 			},{
 				"name" : "Wisconsin",
 				"abbreviation" : "WIS",
-				"prestige" : "60",
+				"prestige" : "75",
 				"state" : "Wisconsin",
 				"rival" : "MINN"
 			},{
@@ -247,61 +247,61 @@
 			},{
 				"name" : "New Mexico",
 				"abbreviation" : "NM",
-				"prestige" : "60",
+				"prestige" : "50",
 				"state" : "New Mexico",
 				"rival" : "NMS"
 			},{
 				"name" : "New Mexico State",
 				"abbreviation" : "NMS",
-				"prestige" : "60",
+				"prestige" : "50",
 				"state" : "New Mexico",
 				"rival" : "NM"
 			},{
 				"name" : "BYU",
 				"abbreviation" : "BYU",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "Utah",
 				"rival" : "UTAH"
 			},{
 				"name" : "Utah",
 				"abbreviation" : "UTAH",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "Utah",
 				"rival" : "BYU"
 			},{
 				"name" : "Colorado",
 				"abbreviation" : "COL",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "Colorado",
 				"rival" : "AF"
 			},{
 				"name" : "Air Force",
 				"abbreviation" : "AF",
-				"prestige" : "60",
+				"prestige" : "50",
 				"state" : "Colorado",
 				"rival" : "COL"
 			},{
 				"name" : "Las Vegas",
 				"abbreviation" : "UNLV",
-				"prestige" : "60",
+				"prestige" : "45",
 				"state" : "Nevada",
 				"rival" : "UNR"
 			},{
 				"name" : "Reno",
 				"abbreviation" : "UNR",
-				"prestige" : "60",
+				"prestige" : "45",
 				"state" : "Nevada",
 				"rival" : "UNLV"
 			},{
 				"name" : "South Dakota State",
 				"abbreviation" : "SDSU",
-				"prestige" : "60",
+				"prestige" : "45",
 				"state" : "South Dakota",
 				"rival" : "NDSU"
 			},{
 				"name" : "North Dakota State",
 				"abbreviation" : "NDSU",
-				"prestige" : "60",
+				"prestige" : "45",
 				"state" : "North Dakota",
 				"rival" : "SDSU"
 			}]
@@ -311,49 +311,49 @@
 				"confTeams" : [{
 				"name" : "California",
 				"abbreviation" : "CAL",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "California",
 				"rival" : "STAN"
 			},{
 				"name" : "Stanford",
 				"abbreviation" : "STAN",
-				"prestige" : "60",
+				"prestige" : "75",
 				"state" : "California",
 				"rival" : "CAL"
 			},{
 				"name" : "Oregon",
 				"abbreviation" : "ORE",
-				"prestige" : "60",
+				"prestige" : "75",
 				"state" : "Oregon",
 				"rival" : "ORS"
 			},{
 				"name" : "Oregon State",
 				"abbreviation" : "ORS",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "Oregon",
 				"rival" : "ORE"
 			},{
 				"name" : "Washington",
 				"abbreviation" : "WASH",
-				"prestige" : "60",
+				"prestige" : "65",
 				"state" : "Washington",
 				"rival" : "WSU"
 			},{
 				"name" : "Washington State",
 				"abbreviation" : "WSU",
-				"prestige" : "60",
+				"prestige" : "55",
 				"state" : "Washington",
 				"rival" : "WASH"
 			},{
 				"name" : "Southern California",
 				"abbreviation" : "USC",
-				"prestige" : "60",
+				"prestige" : "85",
 				"state" : "California",
 				"rival" : "ND"
 			},{
 				"name" : "Notre Dame",
 				"abbreviation" : "ND",
-				"prestige" : "60",
+				"prestige" : "90",
 				"state" : "Indiana",
 				"rival" : "USC"
 			},{
@@ -365,19 +365,19 @@
 			},{
 				"name" : "Fresno State",
 				"abbreviation" : "FRES",
-				"prestige" : "60",
+				"prestige" : "45",
 				"state" : "California",
 				"rival" : "BSU"
 			},{
 				"name" : "Montana",
 				"abbreviation" : "MON",
-				"prestige" : "60",
+				"prestige" : "45",
 				"state" : "Montana",
 				"rival" : "IDA"
 			},{
 				"name" : "Idaho",
 				"abbreviation" : "IDA",
-				"prestige" : "60",
+				"prestige" : "45",
 				"state" : "Idaho",
 				"rival" : "MON"
 			}]
