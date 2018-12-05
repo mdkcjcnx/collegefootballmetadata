@@ -1,0 +1,389 @@
+{
+
+	"bowlGames" : ["Rose Bowl", "Sugar Bowl", "Peach Bowl", "Cotton Bowl Classic", "Music City Bowl", "Fiesta Bowl", "Pinstripe Bowl", "Citrus Bowl", "Belk Bowl", "Outback Bowl"],
+		"conferences" : [{
+			"confName" : "WEU",
+			"confFullName" : "Western Europe",
+			"confTeams" : [{
+				"name" : "France",
+				"abbreviation" : "FRA",
+				"prestige" : "95",
+				"state" : "Florida",
+				"rival" : "GER"
+			},{
+				"name" : "Germany",
+				"abbreviation" : "GER",
+				"prestige" : "95",
+				"state" : "Virginia",
+				"rival" : "FRA"
+			},{
+				"name" : "England",
+				"abbreviation" : "ENG",
+				"prestige" : "90",
+				"state" : "Louisiana",
+				"rival" : "SCOT"
+			},{
+				"name" : "Spain",
+				"abbreviation" : "SPA",
+				"prestige" : "90",
+				"state" : "Georgia",
+				"rival" : "PORT"
+			},{
+				"name" : "Italy",
+				"abbreviation" : "ITA",
+				"prestige" : "85",
+				"state" : "Mississippi",
+				"rival" : "CRO"
+			},{
+				"name" : "Portugal",
+				"abbreviation" : "PORT",
+				"prestige" : "80",
+				"state" : "Alabama",
+				"rival" : "SPA"
+			},{
+				"name" : "Denmark",
+				"abbreviation" : "DEN",
+				"prestige" : "80",
+				"state" : "New Jersey",
+				"rival" : "SWE"
+			},{
+				"name" : "Sweden",
+				"abbreviation" : "SWE",
+				"prestige" : "80",
+				"state" : "Maryland",
+				"rival" : "DEN"
+			},{
+				"name" : "Scotland",
+				"abbreviation" : "SCOT",
+				"prestige" : "75",
+				"state" : "Iowa",
+				"rival" : "ENG"
+			},{
+				"name" : "Croatia",
+				"abbreviation" : "CRO",
+				"prestige" : "75",
+				"state" : "North Carolina",
+				"rival" : "ITA"
+			}]
+		},{
+			"confName" : "SAM",
+			"confFullName" : "South America",
+				"confTeams" : [{
+				"name" : "Brazil",
+				"abbreviation" : "BRA",
+				"prestige" : "95",
+				"state" : "Texas",
+				"rival" : "ARG"
+			},{
+				"name" : "Argentina",
+				"abbreviation" : "ARG",
+				"prestige" : "80",
+				"state" : "Tennessee",
+				"rival" : "BRA"
+			},{
+				"name" : "Chile",
+				"abbreviation" : "CHIL",
+				"prestige" : "75",
+				"state" : "Michigan",
+				"rival" : "PERU"
+			},{
+				"name" : "Peru",
+				"abbreviation" : "PERU",
+				"prestige" : "75",
+				"state" : "Illinois",
+				"rival" : "CHIL"
+			},{
+				"name" : "Colombia",
+				"abbreviation" : "COL",
+				"prestige" : "70",
+				"state" : "Ohio",
+				"rival" : "VEN"
+			},{
+				"name" : "Uruguay",
+				"abbreviation" : "URU",
+				"prestige" : "70",
+				"state" : "Pennsylvania",
+				"rival" : "PAR"
+			},{
+				"name" : "Venezuela",
+				"abbreviation" : "VEN",
+				"prestige" : "65",
+				"state" : "Arkansas",
+				"rival" : "COL"
+			},{
+				"name" : "Paraguay",
+				"abbreviation" : "PAR",
+				"prestige" : "65",
+				"state" : "Oregon",
+				"rival" : "URU"
+			},{
+				"name" : "Ecuador",
+				"abbreviation" : "ECU",
+				"prestige" : "60",
+				"state" : "Washington",
+				"rival" : "GUY"
+			},{
+				"name" : "Guyana",
+				"abbreviation" : "GUY",
+				"prestige" : "55",
+				"state" : "Wyoming",
+				"rival" : "ECU"
+			}]
+		},{
+			"confName" : "NAM",
+			"confFullName" : "North America",
+			"confTeams" : [{
+				"name" : "United States",
+				"abbreviation" : "USA",
+				"prestige" : "85",
+				"state" : "California",
+				"rival" : "MEX"
+			},{
+				"name" : "Mexico",
+				"abbreviation" : "MEX",
+				"prestige" : "75",
+				"state" : "Arizona",
+				"rival" : "USA"
+			},{
+				"name" : "Honduras",
+				"abbreviation" : "HON",
+				"prestige" : "70",
+				"state" : "Delaware",
+				"rival" : "CAN"
+			},{
+				"name" : "Costa Rica",
+				"abbreviation" : "CR",
+				"prestige" : "70",
+				"state" : "Kentucky",
+				"rival" : "SAL"
+			},{
+				"name" : "Canada",
+				"abbreviation" : "CAN",
+				"prestige" : "65",
+				"state" : "Idaho",
+				"rival" : "HON"
+			},{
+				"name" : "Jamaica",
+				"abbreviation" : "JAM",
+				"prestige" : "65",
+				"state" : "Nebraska",
+				"rival" : "HAI"
+			},{
+				"name" : "El Salvador",
+				"abbreviation" : "SAL",
+				"prestige" : "60",
+				"state" : "Vermont",
+				"rival" : "CR"
+			},{
+				"name" : "Haiti",
+				"abbreviation" : "HAI",
+				"prestige" : "60",
+				"state" : "New Hampshire",
+				"rival" : "JAM"
+			},{
+				"name" : "Trinidad and Tobago",
+				"abbreviation" : "TRT",
+				"prestige" : "60",
+				"state" : "West Virginia",
+				"rival" : "DOM"
+			},{
+				"name" : "Dominican Republic",
+				"abbreviation" : "DOM",
+				"prestige" : "50",
+				"state" : "Arkansas",
+				"rival" : "TRT"
+			}]
+		},{
+			"confName" : "OCEA",
+			"confFullName" : "Oceania/East Asia",
+			"confTeams" : [{
+				"name" : "China",
+				"abbreviation" : "CHIN",
+				"prestige" : "65",
+				"state" : "Illinois",
+				"rival" : "VIET"
+			},{
+				"name" : "Myanmar",
+				"abbreviation" : "MYA",
+				"prestige" : "65",
+				"state" : "Colorado",
+				"rival" : "THA"
+			},{
+				"name" : "Japan",
+				"abbreviation" : "JAP",
+				"prestige" : "65",
+				"state" : "Missouri",
+				"rival" : "AUS"
+			},{
+				"name" : "Australia",
+				"abbreviation" : "AUS",
+				"prestige" : "60",
+				"state" : "Hawaii",
+				"rival" : "JAP"
+			},{
+				"name" : "South Korea",
+				"abbreviation" : "SKO",
+				"prestige" : "60",
+				"state" : "Oklahoma",
+				"rival" : "NKO"
+			},{
+				"name" : "Thailand",
+				"abbreviation" : "THA",
+				"prestige" : "55",
+				"state" : "Nevada",
+				"rival" : "MYA"
+			},{
+				"name" : "Indonesia",
+				"abbreviation" : "INDO",
+				"prestige" : "55",
+				"state" : "Oregon",
+				"rival" : "NZ"
+			},{
+				"name" : "New Zealand",
+				"abbreviation" : "NZ",
+				"prestige" : "55",
+				"state" : "North Dakota",
+				"rival" : "INDO"
+			},{
+				"name" : "North Korea",
+				"abbreviation" : "NKO",
+				"prestige" : "25",
+				"state" : "West Virginia",
+				"rival" : "SKO"
+			},{
+				"name" : "Vietnam",
+				"abbreviation" : "VIET",
+				"prestige" : "25",
+				"state" : "Utah",
+				"rival" : "CHIN"
+			}]
+		},{
+			"confName" : "EEU",
+			"confFullName" : "Eastern Europe",
+			"confTeams" : [{
+				"name" : "Russia",
+				"abbreviation" : "RUS",
+				"prestige" : "60",
+				"state" : "District of Columbia",
+				"rival" : "POL"
+			},{
+				"name" : "Czech Republic",
+				"abbreviation" : "CZE",
+				"prestige" : "55",
+				"state" : "Colorado",
+				"rival" : "SLO"
+			},{
+				"name" : "Turkey",
+				"abbreviation" : "TURK",
+				"prestige" : "55",
+				"state" : "Minnesota",
+				"rival" : "GRE"
+			},{
+				"name" : "Poland",
+				"abbreviation" : "POL",
+				"prestige" : "50",
+				"state" : "Utah",
+				"rival" : "RUS"
+			},{
+				"name" : "Greece",
+				"abbreviation" : "GRE",
+				"prestige" : "50",
+				"state" : "Connecticut",
+				"rival" : "TURK"
+			},{
+				"name" : "Slovakia",
+				"abbreviation" : "SLO",
+				"prestige" : "50",
+				"state" : "Nevada",
+				"rival" : "CZE"
+			},{
+				"name" : "Montenegro",
+				"abbreviation" : "MON",
+				"prestige" : "45",
+				"state" : "Massachusetts",
+				"rival" : "KOS"
+			},{
+				"name" : "Kosovo",
+				"abbreviation" : "KOS",
+				"prestige" : "45",
+				"state" : "Rhode Island",
+				"rival" : "MON"
+			},{
+				"name" : "Serbia",
+				"abbreviation" : "SERB",
+				"prestige" : "45",
+				"state" : "Indiana",
+				"rival" : "ALB"
+			},{
+				"name" : "Albania",
+				"abbreviation" : "ALB",
+				"prestige" : "45",
+				"state" : "Montana",
+				"rival" : "SERB"
+			}]
+		},{
+			"confName" : "AWA",
+			"confFullName" : "Africa/West Asia",
+			"confTeams" : [{
+				"name" : "Ghana",
+				"abbreviation" : "GHA",
+				"prestige" : "65",
+				"state" : "New York",
+				"rival" : "NIG"
+			},{
+				"name" : "Nigeria",
+				"abbreviation" : "NIG",
+				"prestige" : "60",
+				"state" : "Kansas",
+				"rival" : "GHA"
+			},{
+				"name" : "India",
+				"abbreviation" : "INDIA",
+				"prestige" : "55",
+				"state" : "Minnesota",
+				"rival" : "PAK"
+			},{
+				"name" : "Egypt",
+				"abbreviation" : "EGY",
+				"prestige" : "50",
+				"state" : "Wisconsin",
+				"rival" : "ALG"
+			},{
+				"name" : "Iran",
+				"abbreviation" : "IRAN",
+				"prestige" : "50",
+				"state" : "South Carolina",
+				"rival" : "IRAQ"
+			},{
+				"name" : "Iraq",
+				"abbreviation" : "IRAQ",
+				"prestige" : "50",
+				"state" : "New Mexico",
+				"rival" : "IRAN"
+			},{
+				"name" : "Algeria",
+				"abbreviation" : "ALG",
+				"prestige" : "45",
+				"state" : "Maine",
+				"rival" : "EGY"
+			},{
+				"name" : "Pakistan",
+				"abbreviation" : "PAK",
+				"prestige" : "45",
+				"state" : "Wisconsin",
+				"rival" : "INDIA"
+			},{
+				"name" : "Congo",
+				"abbreviation" : "CON",
+				"prestige" : "45",
+				"state" : "South Dakota",
+				"rival" : "SAF"
+			},{
+				"name" : "South Africa",
+				"abbreviation" : "SAF",
+				"prestige" : "45",
+				"state" : "Alaska",
+				"rival" : "CON"
+		}]
+	}]
+}
