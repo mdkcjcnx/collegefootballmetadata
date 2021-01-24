@@ -2,12 +2,12 @@
 
 	"bowlGames" : ["Rose Bowl", "Sugar Bowl", "Peach Bowl", "Cotton Bowl Classic", "Music City Bowl", "Fiesta Bowl", "Pinstripe Bowl", "Citrus Bowl", "Belk Bowl", "Outback Bowl"],
 		"conferences" : [{
-			"confName" : "SE",
-			"confFullName" : "Southeast",
+			"confName" : "SEC",
+			"confFullName" : "SEC",
 			"confTeams" : [{
 				"name" : "North Carolina",
 				"abbreviation" : "UNC",
-				"prestige" : "60",
+				"prestige" : "70",
 				"state" : "North Carolina",
 				"rival" : "DUKE"
 			},{
@@ -17,17 +17,11 @@
 				"state" : "North Carolina",
 				"rival" : "UNC"
 			},{
-				"name" : "Clemson",
-				"abbreviation" : "CLEM",
-				"prestige" : "90",
-				"state" : "South Carolina",
-				"rival" : "GEO"
-			},{
 				"name" : "Georgia",
 				"abbreviation" : "GEO",
-				"prestige" : "75",
+				"prestige" : "94",
 				"state" : "Georgia",
-				"rival" : "CLEM"
+				"rival" : "ALA"
 			},{
 				"name" : "Alabama",
 				"abbreviation" : "ALA",
@@ -61,7 +55,7 @@
 			},{
 				"name" : "Florida State",
 				"abbreviation" : "FSU",
-				"prestige" : "85",
+				"prestige" : "75",
 				"state" : "Florida",
 				"rival" : "FLA"
 			},{
@@ -78,8 +72,8 @@
 				"rival" : "UVA"
 			}]
 		},{
-			"confName" : "NORTH",
-			"confFullName" : "Northern",
+			"confName" : "B1G",
+			"confFullName" : "B1G",
 				"confTeams" : [{
 				"name" : "Army",
 				"abbreviation" : "ARMY",
@@ -107,7 +101,7 @@
 			},{
 				"name" : "Ohio State",
 				"abbreviation" : "OSU",
-				"prestige" : "90",
+				"prestige" : "95",
 				"state" : "Ohio",
 				"rival" : "MICH"
 			},{
@@ -154,42 +148,36 @@
 				"rival" : "PSU"
 			}]
 		},{
-			"confName" : "MWST",
-			"confFullName" : "Midwestern",
+			"confName" : "XII",
+			"confFullName" : "BIG XII",
 				"confTeams" : [{
 				"name" : "Kansas",
 				"abbreviation" : "KU",
 				"prestige" : "50",
 				"state" : "Kansas",
-				"rival" : "MU"
+				"rival" : "KSU"
 			},{
-				"name" : "Missouri",
-				"abbreviation" : "MU",
+				"name" : "Baylor",
+				"abbreviation" : "BU",
 				"prestige" : "65",
 				"state" : "Missouri",
 				"rival" : "KU"
 			},{
-				"name" : "Iowa",
-				"abbreviation" : "IOW",
-				"prestige" : "65",
-				"state" : "Iowa",
-				"rival" : "ISU"
-			},{
 				"name" : "Iowa State",
 				"abbreviation" : "ISU",
-				"prestige" : "50",
+				"prestige" : "85",
 				"state" : "Iowa",
-				"rival" : "IOW"
+				"rival" : "WVU"
 			},{
 				"name" : "Kansas State",
 				"abbreviation" : "KSU",
 				"prestige" : "65",
 				"state" : "Kansas",
-				"rival" : "NEB"
+				"rival" : "KU"
 			},{
-				"name" : "Nebraska",
-				"abbreviation" : "NEB",
-				"prestige" : "70",
+				"name" : "West Virginia",
+				"abbreviation" : "WVU",
+				"prestige" : "85",
 				"state" : "Nebraska",
 				"rival" : "KSU"
 			},{
@@ -197,11 +185,11 @@
 				"abbreviation" : "OU",
 				"prestige" : "90",
 				"state" : "Oklahoma",
-				"rival" : "OKS"
+				"rival" : "TEX"
 			},{
 				"name" : "Oklahoma State",
 				"abbreviation" : "OKS",
-				"prestige" : "65",
+				"prestige" : "70",
 				"state" : "Oklahoma",
 				"rival" : "OU"
 			},{
@@ -209,29 +197,23 @@
 				"abbreviation" : "TEX",
 				"prestige" : "90",
 				"state" : "Texas",
-				"rival" : "TTU"
+				"rival" : "OU"
 			},{
 				"name" : "Texas Tech",
 				"abbreviation" : "TTU",
-				"prestige" : "65",
+				"prestige" : "75",
 				"state" : "Texas",
 				"rival" : "TEX"
 			},{
-				"name" : "Wisconsin",
-				"abbreviation" : "WIS",
-				"prestige" : "75",
+				"name" : "TCU",
+				"abbreviation" : "TCU",
+				"prestige" : "65",
 				"state" : "Wisconsin",
-				"rival" : "MINN"
-			},{
-				"name" : "Minnesota",
-				"abbreviation" : "MINN",
-				"prestige" : "60",
-				"state" : "Minnesota",
-				"rival" : "WIS"
+				"rival" : "TTU"
 			}]
 		},{
-			"confName" : "SW",
-			"confFullName" : "Southwestern",
+			"confName" : "PAC12",
+			"confFullName" : "PAC 12",
 				"confTeams" : [{
 				"name" : "Arizona",
 				"abbreviation" : "ARI",
@@ -306,12 +288,12 @@
 				"rival" : "SDSU"
 			}]
 		},{
-			"confName" : "PAC",
-			"confFullName" : "Pacific",
+			"confName" : "ACC",
+			"confFullName" : "ACC",
 				"confTeams" : [{
 				"name" : "California",
 				"abbreviation" : "CAL",
-				"prestige" : "65",
+				"prestige" : "85",
 				"state" : "California",
 				"rival" : "STAN"
 			},{
@@ -327,11 +309,11 @@
 				"state" : "Oregon",
 				"rival" : "ORS"
 			},{
-				"name" : "Oregon State",
-				"abbreviation" : "ORS",
-				"prestige" : "65",
-				"state" : "Oregon",
-				"rival" : "ORE"
+				"name" : "Clemson",
+				"abbreviation" : "CLEM",
+				"prestige" : "95",
+				"state" : "South Carolina",
+				"rival" : "ND"
 			},{
 				"name" : "Washington",
 				"abbreviation" : "WASH",
